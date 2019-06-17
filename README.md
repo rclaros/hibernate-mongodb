@@ -1,5 +1,5 @@
 # Hibernate-Mongodb
-Implementación Hibernate coon MongoDB
+Implementación Hibernate con MongoDB
 
 ### Implementación ara registros
 
